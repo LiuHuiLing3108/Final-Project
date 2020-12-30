@@ -121,7 +121,6 @@ public class MainActivity extends AppCompatActivity {
                         textViewQuestion.setText("Answer 1 is correct");
                     }else {
                         rbSelected.setBackgroundColor(Color.RED);
-
                     }
                     break;
                 case 2:
